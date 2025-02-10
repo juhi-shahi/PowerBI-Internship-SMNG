@@ -18,7 +18,7 @@ This repository contains **Power BI dashboards** built during my **internship at
 - **Objective:** Analyzed survival rates based on class, age, and gender.  
 - **Impact:** Helped in identifying patterns among Titanic survivors.  
 - **Preview:**  
-  ![Titanic Dashboard]("C:\Users\Lenovo\Downloads\TITANIC SHIP ANALYSIS DASHBOARD.jpg")  
+  ![Titanic Dashboard]("https://github.com/juhi-shahi/PowerBI-Internship-SMNG/blob/main/TITANIC%20SHIP%20ANALYSIS%20DASHBOARD.jpg")  
 
 
 ---
@@ -27,7 +27,7 @@ This repository contains **Power BI dashboards** built during my **internship at
 - **Objective:** Analyzed key sales trends and revenue growth over time.  
 - **Impact:** Provided insights to improve business decision-making.  
 - **Preview:**  
-  ![Sales Dashboard]("C:\Users\Lenovo\Downloads\HR ANALYTICS DASHBOARD.jpg")  
+  ![Sales Dashboard]("https://github.com/juhi-shahi/PowerBI-Internship-SMNG/blob/main/HR%20ANALYTICS%20DASHBOARD.jpg")  
 
 
 ---
@@ -36,7 +36,7 @@ This repository contains **Power BI dashboards** built during my **internship at
 - **Objective:** Visualized terrorism incidents by country, year, and attack type.  
 - **Impact:** Provided data-driven insights for policy-making and security analysis.  
 - **Preview:**  
-  ![Terrorism Dashboard]("C:\Users\Lenovo\Downloads\GLOBAL TERRORISM ANALYSIS.jpg")  
+  ![Terrorism Dashboard]("https://github.com/juhi-shahi/PowerBI-Internship-SMNG/blob/main/GLOBAL%20TERRORISM%20ANALYSIS.jpg")  
 
 
 
